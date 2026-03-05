@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo - Combo.png" alt="Chris Badenhorst Logo" width="200">
+  <img src="My Logo - Combo.png" alt="Chris Badenhorst Logo" width="200">
 </p>
 
 # Who I Am
