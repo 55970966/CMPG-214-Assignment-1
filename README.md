@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Logo - Combo.png" alt="Chris Badenhorst Logo" width="200">
+</p>
+
 # Who I Am
 I am a BSc IT student who genuinely loves technology, programming, and designing connected systems. I enjoy building things that work well and make sense.
 I don’t just write code, I solve problems. I’m always learning, growing, and pushing myself to become better across the full stack. My goal is simple: keep improving, keep building, and one day use my skills to make a real difference.
