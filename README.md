@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="My Logo - Combo.png" alt="Chris Badenhorst Logo" width="200">
 </p>
 
